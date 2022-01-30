@@ -1,0 +1,4 @@
+[submodule "agrariantransitions/public"]
+	path = agrariantransitions/public
+	url = https://github.com/clmgrhm/agrariantransitions.github.io.git
+	branch = main
